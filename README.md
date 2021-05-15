@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baalIsBack deadHorse or sometimes just baal
+- 👋 Hi, I’m @baalIsBack, deadHorse or sometimes just baal
 - 👀 I’m interested in Functional Programming, Compilers & Assemblers and most importantly: Games
 - 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on games
